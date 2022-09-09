@@ -1,2 +1,3 @@
 # diy
+
 Notes and tips while nerding around...
